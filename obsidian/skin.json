@@ -13,8 +13,8 @@
       "mini_profile_discrim_colour": "#B9BABB"
     },
     "tasklist": {
-      "first_page_bg": "misc/first_page_background.png",
-      "other_page_bg": "misc/second_page_background.png",
+      "first_page_bg": "shared/first_page_background.png",
+      "other_page_bg": "shared/second_page_background.png",
       "title_colour": "#9A9FCC",
       "task_done_number_colour": "#7E6FB2",
       "task_undone_number_colour": "#7E6FB2",
@@ -70,7 +70,7 @@
       "footer_colour": "#555671"
     },
     "monthly_stats": {
-      "background": "misc/second_page_background.png",
+      "background": "shared/second_page_background.png",
       "title_colour": "#9A9FCC",
       "top_hours_colour": "#E2E2E2",
       "top_hours_bg_colour": "#555682",
@@ -108,7 +108,7 @@
       ]
     },
     "weekly_goals": {
-      "background": "misc/first_page_background.png",
+      "background": "shared/first_page_background.png",
       "title_colour": "#9A9FCC",
       "progress_bg_colour": "#9A9FCC40",
       "progress_colour": "#8B9ACD",
@@ -128,7 +128,7 @@
       "footer_colour": "#555671"
     },
     "monthly_goals": {
-      "background": "misc/first_page_background.png",
+      "background": "shared/first_page_background.png",
       "title_colour": "#9A9FCC",
       "progress_bg_colour": "#9A9FCC40",
       "progress_colour": "#8B9ACD",
