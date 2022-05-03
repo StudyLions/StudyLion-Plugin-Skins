@@ -4,7 +4,7 @@
   "public": true,
   "price": 2048,
   "asset_root": "assets",
-  "parents": ["base"],
+  "parents": ["base", "_premium_skin_base"],
   "properties": {
     "common": {
       "mini_profile_badge_colour": "#FFFFFF",

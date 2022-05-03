@@ -2,7 +2,7 @@
   "fallback": "original",
   "skin_map": {
     "original": "base",
-    "testing": "testing",
-    "obsidian": "obsidian"
+    "obsidian": "obsidian",
+    "_premium_skin_base": "mixins/premium-skin-base"
   }
 }

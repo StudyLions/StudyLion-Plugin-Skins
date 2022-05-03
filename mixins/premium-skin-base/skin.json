@@ -1,0 +1,9 @@
+{
+  "name": "Premium Skin Base",
+  "description": "Abstract (non-viewable) skin providing some leaderboard assets shared amongst the new premium skins.",
+  "properties": {
+    "leaderboard": {
+      "asset_root": "assets"
+    }
+  }
+}
