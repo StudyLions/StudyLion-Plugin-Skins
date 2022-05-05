@@ -32,9 +32,7 @@
       "cal_number_colour": "#6E7877",
       "cal_number_end_colour": "#FFFFFF",
       "cal_streak_middle_colour": "#54548040",
-      "cal_streak_end_colour": "#545480",
-      "red_cal_streak_middle_colour": "#ED145240",
-      "red_cal_streak_end_colour": "#840C3D"
+      "cal_streak_end_colour": "#545480"
     },
     "profile": {
       "header_colour_1": "#9A9FCD",
@@ -107,7 +105,7 @@
         "#F3EDFF"
       ]
     },
-    "weekly_goals": {
+    "_goals": {
       "background": "shared/first_page_background.png",
       "title_colour": "#9A9FCC",
       "progress_bg_colour": "#9A9FCC40",
@@ -117,7 +115,7 @@
       "task_count_colour": "#9A9FCC",
       "task_done_colour": "#9E9E9E",
       "task_goal_colour": "#9E9E9E",
-      "task_goal_numer_colour": "#9E9E9E",
+      "task_goal_number_colour": "#9E9E9E",
       "studied_text_colour": "#9E9E9E",
       "studied_hour_colour": "#9A9FCC",
       "task_header_colour": "#9A9FCC",
@@ -127,33 +125,16 @@
       "task_undone_text_colour": "#F5F6F7",
       "footer_colour": "#555671"
     },
+    "weekly_goals": {
+      "parents": ["_goals"]
+    },
     "monthly_goals": {
-      "background": "shared/first_page_background.png",
-      "title_colour": "#9A9FCC",
-      "progress_bg_colour": "#9A9FCC40",
-      "progress_colour": "#8B9ACD",
-      "attendance_rate_colour": "#9A9FCC",
-      "attendance_colour": "#9E9E9E",
-      "task_count_colour": "#9A9FCC",
-      "task_done_colour": "#9E9E9E",
-      "task_goal_colour": "#9E9E9E",
-      "task_goal_numer_colour": "#9E9E9E",
-      "studied_text_colour": "#9E9E9E",
-      "studied_hour_colour": "#9A9FCC",
-      "task_header_colour": "#9A9FCC",
-      "task_done_number_colour": "#7E6FB2",
-      "task_undone_number_colour": "#7E6FB2",
-      "task_done_text_colour": "#515151",
-      "task_undone_text_colour": "#F5F6F7",
-      "footer_colour": "#555671"
+      "parents": ["_goals"]
     },
     "leaderboard": {
       "header_text_colour": "#9A9ECE",
       "subheader_name_colour": "#767372",
       "subheader_value_colour": "#767372",
-      "header_gap": 10,
-      "first_avatar_gap": 50,
-      "first_top_gap": -10,
       "top_position_colour": "#BBBBBB",
       "top_name_colour": "#9A9FCC",
       "top_hours_colour": "#BBBBBB",
