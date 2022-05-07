@@ -3,6 +3,7 @@
   "skin_map": {
     "original": "base",
     "obsidian": "obsidian",
+    "platinum": "platinum",
     "_premium_skin_base": "mixins/premium-skin-base"
   }
 }
