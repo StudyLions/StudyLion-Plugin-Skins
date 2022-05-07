@@ -13,6 +13,8 @@
       "mini_profile_discrim_colour": "#2276A0"
     },
     "tasklist": {
+      "first_page_bg": "shared/first_page_background.png",
+      "other_page_bg": "shared/second_page_background.png",
       "title_colour": "#DF7DB3",
       "task_done_number_colour": "#78A7D9",
       "task_undone_number_colour": "#78A7D9",
@@ -66,6 +68,7 @@
       "footer_colour": "#49679a"
     },
     "monthly_stats": {
+      "background": "shared/second_page_background.png",
       "title_colour": "#DF7DB3",
       "top_hours_colour": "#e2e2e2",
       "top_hours_bg_colour": "#5359A7",
@@ -103,6 +106,7 @@
       ]
     },
     "_goals": {
+      "background": "shared/first_page_background.png",
       "title_colour": "#E97BC1",
       "progress_bg_colour": "#DF7DB340",
       "progress_colour": "#DF7DB3",
