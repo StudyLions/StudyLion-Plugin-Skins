@@ -51,7 +51,7 @@
       "title_colour": "#ffffff",
       "top_hours_colour": "#345AA9",
       "top_hours_bg_colour": "#FFFAF1",
-      "top_line_colour": "8FD4D74D",
+      "top_line_colour": "#8FD4D726",
       "top_weekday_colour": "#FFEDD5",
       "top_date_colour": "#FFEDD5",
       "top_this_colour": "#DCBCDA",
@@ -63,8 +63,8 @@
       "btm_this_colour": "#DCBCDA",
       "btm_last_colour": "#D1A6CD8C",
       "btm_day_colour": "#DCDBDB",
-      "this_week_colour": "#DCBCDA",
-      "last_week_colour": "#D1A6CD8C",
+      "this_week_colour": "#DCDBDB",
+      "last_week_colour": "#DCDBDB",
       "footer_colour": "#dcdcdc"
     },
     "monthly_stats": {
@@ -72,7 +72,7 @@
       "title_colour": "#ffffff",
       "top_hours_colour": "#345AA9",
       "top_hours_bg_colour": "#FFFAF1",
-      "top_line_colour": "#8FD4D74D",
+      "top_line_colour": "#8FD4D726",
       "top_date_colour": "#FFEDD5",
       "top_this_colour": "#DCBCDA",
       "top_last_colour": "#D1A6CD73",

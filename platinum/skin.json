@@ -139,6 +139,7 @@
       "top_name_colour": "#da928c",
       "top_hours_colour": "#846967",
       "entry_position_colour": "#8283bf",
+      "entry_position_highlight_colour": "#FFFFFF",
       "entry_name_colour": "#da928c",
       "entry_hours_colour": "#846967",
       "entry_bg_colour": "#e5e5e5",
