@@ -69,6 +69,7 @@
     },
     "monthly_stats": {
       "background": "shared/second_page_background.png",
+      "heatmap_empty": "monthly/heatmap_empty.png",
       "title_colour": "#ffffff",
       "top_hours_colour": "#345AA9",
       "top_hours_bg_colour": "#FFFAF1",
