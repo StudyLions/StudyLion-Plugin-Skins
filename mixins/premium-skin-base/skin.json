@@ -1,9 +1,9 @@
 {
   "name": "Premium Skin Base",
   "description": "Abstract (non-viewable) skin providing some leaderboard assets shared amongst the new premium skins.",
+  "asset_root": "assets",
   "properties": {
     "leaderboard": {
-      "asset_root": "assets",
       "header_gap": 10,
       "first_avatar_gap": 50,
       "first_top_gap": -10
