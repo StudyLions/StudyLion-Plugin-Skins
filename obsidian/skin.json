@@ -2,7 +2,7 @@
   "display_name": "Obsidian",
   "description": "The Obsidian Skin.\nMade by **Kate Estrabo**\nFor more, visit https://www.behance.net/bykate.",
   "public": true,
-  "price": 2048,
+  "price": 1500,
   "asset_root": "assets",
   "parents": ["base", "_premium_skin_base"],
   "properties": {
