@@ -18,8 +18,8 @@
       "title_colour": "#ffffff",
       "task_done_number_colour": "#DCD3E9",
       "task_undone_number_colour": "#DCD3E9",
-      "task_done_text_colour": "#9a9ecf",
-      "task_undone_text_colour": "#989898",
+      "task_undone_text_colour": "#9a9ecf",
+      "task_done_text_colour": "#989898",
       "footer_colour": "#5B5F80"
     },
     "stats": {
