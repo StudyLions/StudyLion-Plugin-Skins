@@ -143,7 +143,9 @@
       "entry_name_colour": "#da928c",
       "entry_hours_colour": "#846967",
       "entry_bg_colour": "#e5e5e5",
-      "entry_bg_highlight_colour": "#8283bf"
+      "entry_bg_highlight_colour": "#8283bf",
+      "entry_name_highlight_colour": "#FFFFFF",
+      "entry_hours_highlight_colour": "#FFFFFF"
     }
   }
 }
